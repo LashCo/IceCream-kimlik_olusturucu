@@ -6,7 +6,7 @@
 
 
  
- 2.😜ardından lua compilerinizi açın (replit tavsiye ederim kodu) yapıştırın
+ 2.😜ardından lua compilerinizi açın (replit tavsiye ederim) kodu yapıştırın
 
 
  
